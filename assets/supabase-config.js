@@ -4,5 +4,5 @@
 // NE JAMAIS mettre ici la cle "service_role" (secrete).
 window.AGRO_CONFIG = {
   url: "https://ocixvygsxfyxxnkidnvl.supabase.co",
-  key: "REMPLACER_PAR_LA_CLE_ANON_PUBLIQUE" // Supabase > Project Settings > API > anon public
+  key: "sb_publishable_wO5k_FNq9LGxkIZq3S1hbQ_AvF-wBuK" // Supabase > Project Settings > API > anon public
 };
